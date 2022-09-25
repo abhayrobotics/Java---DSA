@@ -2,28 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bc01b82-ffc3-477c-8c64-ef23bb2113a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java Basic/src/com/assignments/01-flow-of-program.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java Basic/src/com/assignments/02-first-java.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java Basic/src/com/assignments/03-conditionals-loops.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java Basic/src/com/assignments/04-functions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java Basic/src/com/assignments/05-arrays.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java Basic/src/com/assignments/06-searching.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java Basic/src/com/assignments/07-sorting.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java Basic/src/com/assignments/08-strings.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java Basic/src/com/assignments/09-patterns.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java Basic/src/com/assignments/10-recursion.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java Basic/src/com/assignments/11-bitwise.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java Basic/src/com/assignments/12-math.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java Basic/src/com/assignments/13-complexities.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java Basic/src/com/assignments/14-oop.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java Basic/src/com/assignments/15-linkedlist.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java Basic/src/com/assignments/16-stack-queue.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Basic/src/com/assignment/flow01/LCM_HCF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Basic/src/com/assignment/flow01/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Basic/src/com/assignment/flow01/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Basic/src/com/assignment/flow01/Sum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basic/com/assignments/01-flow-of-program.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basic/com/assignments/02-first-java.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basic/com/assignments/03-conditionals-loops.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basic/com/assignments/04-functions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basic/com/assignments/05-arrays.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basic/com/assignments/06-searching.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basic/com/assignments/07-sorting.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basic/com/assignments/08-strings.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basic/com/assignments/09-patterns.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basic/com/assignments/10-recursion.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basic/com/assignments/11-bitwise.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basic/com/assignments/12-math.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basic/com/assignments/13-complexities.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basic/com/assignments/14-oop.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basic/com/assignments/15-linkedlist.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basic/com/assignments/16-stack-queue.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basic/com/assignments/flow/Leap01.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,25 +45,28 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FGvXZILGP8aT4NgbbsMIaCDEDE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Abhay/Programs/Java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "E:/Abhay/Programs/Java"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Abhay\Programs\Java\Java Basic\src\com\assignments" />
       <recent name="E:\Abhay\Programs\Java\Assignments\01-flow-of-programs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Leap01">
+  <component name="RunManager" selected="Application.MultiplicationTable">
     <configuration name="Leap01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leap01" />
       <module name="Java Basic" />
@@ -58,17 +74,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leap_year" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leap_year" />
+    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.assignment.flow01.LeapYear" />
       <module name="Java Basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.assignment.flow01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.assignment.flow01.MultiplicationTable" />
+      <module name="Java Basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.assignment.flow01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.assignment.flow01.Sum" />
+      <module name="Java Basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.assignment.flow01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.assignment.leap" />
+      <module name="Java Basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultiplicationTable" />
+        <item itemvalue="Application.Sum" />
+        <item itemvalue="Application.LeapYear" />
+        <item itemvalue="Application.leap" />
         <item itemvalue="Application.Leap01" />
-        <item itemvalue="Application.Leap_year" />
       </list>
     </recent_temporary>
   </component>
