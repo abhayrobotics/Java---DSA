@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bc01b82-ffc3-477c-8c64-ef23bb2113a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java Basic/src/com/assignment/java02/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Basic/src/com/assignment/java02/ArmstrongNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,20 @@
       <recent name="E:\Abhay\Programs\Java\Assignments\01-flow-of-programs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Palindrome">
+  <component name="RunManager" selected="Application.ArmstrongNumber">
+    <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.assignment.java02.ArmstrongNumber" />
+      <module name="Java Basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.assignment.java02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.assignment.java02.Calculator" />
       <module name="Java Basic" />
@@ -86,19 +99,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InfiniteLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.assignment.flow01.InfiniteLoop" />
-      <module name="Java Basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.assignment.flow01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.assignment.java02.Palindrome" />
       <module name="Java Basic" />
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArmstrongNumber" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.EvenNumber" />
-        <item itemvalue="Application.InfiniteLoop" />
       </list>
     </recent_temporary>
   </component>
