@@ -15,21 +15,33 @@ public class LCM_HCF {
         int num2 = in1.nextInt();
 
         if (num1 == num2) {
-            System.out.println("LCM and HCF are both Same" + num1);
+            System.out.println("LCM and HCF are both Same : " + num1);
         }
         else {
+
+            int small;
+            int big;
             if (num1 < num2)
             {
-                int small = num1;
-                int big = num2;
+                small = num1;
+                big= num2;
             }
             else
             {
-                int small = num2;
-                int big = num1;
+                small = num2;
+                big = num1;
             }
-            //  HCF
+//            HCF
+            while((num2% small != 0 ) ||  (num1 % small != 0 ) ){
+                small--;
+            }
+            System.out.println("HCF is "+small);
 
+//            LCM
+            while((big % num1 !=0 ) ||  (big % num2 !=0 ) ){
+                big++;
+            }
+            System.out.println("LCM is "+ big);
 
         }
     }
