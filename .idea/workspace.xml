@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bc01b82-ffc3-477c-8c64-ef23bb2113a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java Basic/src/com/assignment/java02/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Basic/src/com/assignment/java02/Palindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Basic/src/com/assignment/java02/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Basic/src/com/assignment/java02/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Basic/src/com/assignment/java02/EvenNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Basic/src/com/assignment/java02/EvenNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Basic/com/assignment/java02/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Basic/com/assignment/java02/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Basic/com/assignment/java02/EvenNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Basic/com/assignment/java02/EvenNumber.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +46,7 @@
       <recent name="E:\Abhay\Programs\Java\Assignments\01-flow-of-programs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Fibonacci">
+  <component name="RunManager" selected="Application.Palindrome">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.assignment.java02.Calculator" />
       <module name="Java Basic" />
@@ -103,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LCM_HCF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.assignment.flow01.LCM_HCF" />
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.assignment.java02.Palindrome" />
       <module name="Java Basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.assignment.flow01.*" />
+          <option name="PATTERN" value="com.assignment.java02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.EvenNumber" />
         <item itemvalue="Application.InfiniteLoop" />
-        <item itemvalue="Application.LCM_HCF" />
       </list>
     </recent_temporary>
   </component>
